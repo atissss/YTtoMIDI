@@ -1,5 +1,6 @@
-# Generated file structure in ChatGPT
-# Final outcome may differ from this
+Generated file structure in ChatGPT
+Final outcome may differ from this
+
 ```
 choir-midi-transcriber/
 │
@@ -71,4 +72,4 @@ choir-midi-transcriber/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore```
+└── .gitignore
