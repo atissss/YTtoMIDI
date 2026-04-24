@@ -1,0 +1,21 @@
+# Ignore local data downloads and generated files
+/data/downloads/
+/data/midi/
+
+# Ignore Python environment and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+.envrc
+
+# Ignore editor and OS files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
