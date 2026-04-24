@@ -1,6 +1,8 @@
 Generated file structure in ChatGPT
 Final outcome may differ from this
 
+YES THIS IS VIBE CODED.
+
 ```
 choir-midi-transcriber/
 │
